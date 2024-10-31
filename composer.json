@@ -1,0 +1,14 @@
+{
+	"name": "Remote Post Swap",
+	"description": "PSwap local development post data out with live/remote post data on the fly",
+	"keywords": ["remote", "database", "posts", "swap", "post swap", "remote database", "wp-api", "rest api", "api"],
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Tyler Bailey",
+			"email": "tylerb.media@gmail.com",
+			"homepage": "http://tylerb.me"
+		}
+	],
+	"type": "wordpress-plugin"
+}
